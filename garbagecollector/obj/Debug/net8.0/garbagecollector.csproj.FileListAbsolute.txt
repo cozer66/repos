@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\garbagecollector\bin\Debug\net8.0\garbagecollector.exe
+C:\Users\PC\source\repos\garbagecollector\bin\Debug\net8.0\garbagecollector.deps.json
+C:\Users\PC\source\repos\garbagecollector\bin\Debug\net8.0\garbagecollector.runtimeconfig.json
+C:\Users\PC\source\repos\garbagecollector\bin\Debug\net8.0\garbagecollector.dll
+C:\Users\PC\source\repos\garbagecollector\bin\Debug\net8.0\garbagecollector.pdb
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.AssemblyInfo.cs
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.dll
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\refint\garbagecollector.dll
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.pdb
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\garbagecollector.genruntimeconfig.cache
+C:\Users\PC\source\repos\garbagecollector\obj\Debug\net8.0\ref\garbagecollector.dll

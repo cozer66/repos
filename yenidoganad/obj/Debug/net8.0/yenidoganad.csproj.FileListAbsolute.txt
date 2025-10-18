@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.AssemblyInfo.cs
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\yenidoganad\bin\Debug\net8.0\yenidoganad.exe
+C:\Users\PC\source\repos\yenidoganad\bin\Debug\net8.0\yenidoganad.deps.json
+C:\Users\PC\source\repos\yenidoganad\bin\Debug\net8.0\yenidoganad.runtimeconfig.json
+C:\Users\PC\source\repos\yenidoganad\bin\Debug\net8.0\yenidoganad.dll
+C:\Users\PC\source\repos\yenidoganad\bin\Debug\net8.0\yenidoganad.pdb
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.dll
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\refint\yenidoganad.dll
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.pdb
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\yenidoganad.genruntimeconfig.cache
+C:\Users\PC\source\repos\yenidoganad\obj\Debug\net8.0\ref\yenidoganad.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\-operatörü\bin\Debug\net8.0\-operatörü.exe
+C:\Users\PC\source\repos\-operatörü\bin\Debug\net8.0\-operatörü.deps.json
+C:\Users\PC\source\repos\-operatörü\bin\Debug\net8.0\-operatörü.runtimeconfig.json
+C:\Users\PC\source\repos\-operatörü\bin\Debug\net8.0\-operatörü.dll
+C:\Users\PC\source\repos\-operatörü\bin\Debug\net8.0\-operatörü.pdb
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.AssemblyInfo.cs
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.dll
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\refint\-operatörü.dll
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.pdb
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\-operatörü.genruntimeconfig.cache
+C:\Users\PC\source\repos\-operatörü\obj\Debug\net8.0\ref\-operatörü.dll
