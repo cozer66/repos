@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\kalıtım örnek1\bin\Debug\net8.0\kalıtım örnek1.exe
+C:\Users\PC\source\repos\kalıtım örnek1\bin\Debug\net8.0\kalıtım örnek1.deps.json
+C:\Users\PC\source\repos\kalıtım örnek1\bin\Debug\net8.0\kalıtım örnek1.runtimeconfig.json
+C:\Users\PC\source\repos\kalıtım örnek1\bin\Debug\net8.0\kalıtım örnek1.dll
+C:\Users\PC\source\repos\kalıtım örnek1\bin\Debug\net8.0\kalıtım örnek1.pdb
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.AssemblyInfo.cs
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.dll
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\refint\kalıtım örnek1.dll
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.pdb
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\kalıtım örnek1.genruntimeconfig.cache
+C:\Users\PC\source\repos\kalıtım örnek1\obj\Debug\net8.0\ref\kalıtım örnek1.dll

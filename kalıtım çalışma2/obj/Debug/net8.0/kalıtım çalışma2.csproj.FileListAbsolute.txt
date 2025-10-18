@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\kalıtım çalışma2\bin\Debug\net8.0\kalıtım çalışma2.exe
+C:\Users\PC\source\repos\kalıtım çalışma2\bin\Debug\net8.0\kalıtım çalışma2.deps.json
+C:\Users\PC\source\repos\kalıtım çalışma2\bin\Debug\net8.0\kalıtım çalışma2.runtimeconfig.json
+C:\Users\PC\source\repos\kalıtım çalışma2\bin\Debug\net8.0\kalıtım çalışma2.dll
+C:\Users\PC\source\repos\kalıtım çalışma2\bin\Debug\net8.0\kalıtım çalışma2.pdb
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.AssemblyInfo.cs
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.dll
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\refint\kalıtım çalışma2.dll
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.pdb
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\kalıtım çalışma2.genruntimeconfig.cache
+C:\Users\PC\source\repos\kalıtım çalışma2\obj\Debug\net8.0\ref\kalıtım çalışma2.dll
