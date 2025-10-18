@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\bin\Debug\net8.0\ikitane kapsayıcıkutu.exe
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\bin\Debug\net8.0\ikitane kapsayıcıkutu.deps.json
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\bin\Debug\net8.0\ikitane kapsayıcıkutu.runtimeconfig.json
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\bin\Debug\net8.0\ikitane kapsayıcıkutu.dll
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\bin\Debug\net8.0\ikitane kapsayıcıkutu.pdb
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.AssemblyInfo.cs
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.dll
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\refint\ikitane kapsayıcıkutu.dll
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.pdb
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ikitane kapsayıcıkutu.genruntimeconfig.cache
+C:\Users\PC\source\repos\ikitane kapsayıcıkutu\obj\Debug\net8.0\ref\ikitane kapsayıcıkutu.dll

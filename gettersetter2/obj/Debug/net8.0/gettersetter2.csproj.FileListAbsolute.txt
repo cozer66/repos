@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\gettersetter2\bin\Debug\net8.0\gettersetter2.exe
+C:\Users\PC\source\repos\gettersetter2\bin\Debug\net8.0\gettersetter2.deps.json
+C:\Users\PC\source\repos\gettersetter2\bin\Debug\net8.0\gettersetter2.runtimeconfig.json
+C:\Users\PC\source\repos\gettersetter2\bin\Debug\net8.0\gettersetter2.dll
+C:\Users\PC\source\repos\gettersetter2\bin\Debug\net8.0\gettersetter2.pdb
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.AssemblyInfo.cs
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.dll
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\refint\gettersetter2.dll
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.pdb
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\gettersetter2.genruntimeconfig.cache
+C:\Users\PC\source\repos\gettersetter2\obj\Debug\net8.0\ref\gettersetter2.dll
