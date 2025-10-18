@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\bin\Debug\net8.0\doğan çocuk ad yazdırma.exe
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\bin\Debug\net8.0\doğan çocuk ad yazdırma.deps.json
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\bin\Debug\net8.0\doğan çocuk ad yazdırma.runtimeconfig.json
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\bin\Debug\net8.0\doğan çocuk ad yazdırma.dll
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\bin\Debug\net8.0\doğan çocuk ad yazdırma.pdb
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.AssemblyInfo.cs
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\do_an _o.43EF539E.Up2Date
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.dll
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\refint\doğan çocuk ad yazdırma.dll
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.pdb
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\doğan çocuk ad yazdırma.genruntimeconfig.cache
+C:\Users\PC\source\repos\doğan çocuk ad yazdırma\obj\Debug\net8.0\ref\doğan çocuk ad yazdırma.dll

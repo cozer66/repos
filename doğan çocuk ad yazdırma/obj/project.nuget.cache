@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpxK7zCj2Gc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\doğan çocuk ad yazdırma\\doğan çocuk ad yazdırma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\google.protobuf\\3.32.1\\google.protobuf.3.32.1.nupkg.sha512"
+  ],
+  "logs": []
+}
