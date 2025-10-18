@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\2sınıfgüzodev1\bin\Debug\net8.0\2sınıfgüzodev1.exe
+C:\Users\PC\source\repos\2sınıfgüzodev1\bin\Debug\net8.0\2sınıfgüzodev1.deps.json
+C:\Users\PC\source\repos\2sınıfgüzodev1\bin\Debug\net8.0\2sınıfgüzodev1.runtimeconfig.json
+C:\Users\PC\source\repos\2sınıfgüzodev1\bin\Debug\net8.0\2sınıfgüzodev1.dll
+C:\Users\PC\source\repos\2sınıfgüzodev1\bin\Debug\net8.0\2sınıfgüzodev1.pdb
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.AssemblyInfo.cs
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.dll
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\refint\2sınıfgüzodev1.dll
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.pdb
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\2sınıfgüzodev1.genruntimeconfig.cache
+C:\Users\PC\source\repos\2sınıfgüzodev1\obj\Debug\net8.0\ref\2sınıfgüzodev1.dll

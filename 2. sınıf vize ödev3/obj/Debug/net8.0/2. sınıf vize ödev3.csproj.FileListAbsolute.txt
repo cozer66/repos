@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.AssemblyInfo.cs
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\2. sınıf vize ödev3\bin\Debug\net8.0\2. sınıf vize ödev3.exe
+C:\Users\PC\source\repos\2. sınıf vize ödev3\bin\Debug\net8.0\2. sınıf vize ödev3.deps.json
+C:\Users\PC\source\repos\2. sınıf vize ödev3\bin\Debug\net8.0\2. sınıf vize ödev3.runtimeconfig.json
+C:\Users\PC\source\repos\2. sınıf vize ödev3\bin\Debug\net8.0\2. sınıf vize ödev3.dll
+C:\Users\PC\source\repos\2. sınıf vize ödev3\bin\Debug\net8.0\2. sınıf vize ödev3.pdb
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.dll
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\refint\2. sınıf vize ödev3.dll
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.pdb
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\2. sınıf vize ödev3.genruntimeconfig.cache
+C:\Users\PC\source\repos\2. sınıf vize ödev3\obj\Debug\net8.0\ref\2. sınıf vize ödev3.dll

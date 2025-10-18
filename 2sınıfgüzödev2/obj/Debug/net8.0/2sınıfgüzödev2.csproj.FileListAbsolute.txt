@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\2sınıfgüzödev2\bin\Debug\net8.0\2sınıfgüzödev2.exe
+C:\Users\PC\source\repos\2sınıfgüzödev2\bin\Debug\net8.0\2sınıfgüzödev2.deps.json
+C:\Users\PC\source\repos\2sınıfgüzödev2\bin\Debug\net8.0\2sınıfgüzödev2.runtimeconfig.json
+C:\Users\PC\source\repos\2sınıfgüzödev2\bin\Debug\net8.0\2sınıfgüzödev2.dll
+C:\Users\PC\source\repos\2sınıfgüzödev2\bin\Debug\net8.0\2sınıfgüzödev2.pdb
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.AssemblyInfo.cs
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.dll
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\refint\2sınıfgüzödev2.dll
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.pdb
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\2sınıfgüzödev2.genruntimeconfig.cache
+C:\Users\PC\source\repos\2sınıfgüzödev2\obj\Debug\net8.0\ref\2sınıfgüzödev2.dll
