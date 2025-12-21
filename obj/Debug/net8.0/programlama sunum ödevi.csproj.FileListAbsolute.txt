@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.AssemblyInfo.cs
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\programlama sunum ödevi\bin\Debug\net8.0\programlama sunum ödevi.exe
+C:\Users\PC\source\repos\programlama sunum ödevi\bin\Debug\net8.0\programlama sunum ödevi.deps.json
+C:\Users\PC\source\repos\programlama sunum ödevi\bin\Debug\net8.0\programlama sunum ödevi.runtimeconfig.json
+C:\Users\PC\source\repos\programlama sunum ödevi\bin\Debug\net8.0\programlama sunum ödevi.dll
+C:\Users\PC\source\repos\programlama sunum ödevi\bin\Debug\net8.0\programlama sunum ödevi.pdb
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.dll
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\refint\programlama sunum ödevi.dll
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.pdb
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\programlama sunum ödevi.genruntimeconfig.cache
+C:\Users\PC\source\repos\programlama sunum ödevi\obj\Debug\net8.0\ref\programlama sunum ödevi.dll
